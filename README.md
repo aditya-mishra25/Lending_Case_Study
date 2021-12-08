@@ -2,6 +2,10 @@
 > Lending Club, is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures.
 > The Aim of this case study is to analyze the data and point out driving factors behind loan default.
 
+## Derived Metrics (Extra File Required)
+> To derive Regions from States for analysis we have used an open source dataset available on kaggle
+> link for the data set: https://www.kaggle.com/omer2040/usa-states-to-region
+> this data set is also available in this github repo with the name 'states.csv'
 
 ## Table of Contents
 * [General Info](#general-information)
