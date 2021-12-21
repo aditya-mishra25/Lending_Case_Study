@@ -43,9 +43,6 @@ EDA Results:
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Contact
-Created by Aditya Mishra & Mohamed Kalanthar Hussain - feel free to contact us!
-
 
 
 <!-- Optional -->
